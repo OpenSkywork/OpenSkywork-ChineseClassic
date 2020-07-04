@@ -8,6 +8,14 @@ The labels are stored in `label.csv`, where images and labels are orgnized as ro
 
 The labels for each images contains `id`, `author`, `dynasty `, `genre`, and `filename`:
 
+| field    | Meaning                                                      |
+| -------- | ------------------------------------------------------------ |
+| id       | unique identifier for each painting                          |
+| author   | the creator of the original painting                         |
+| dynasty  | the dynasty of the author, including `唐`, `宋`，`元`, `明`, `清` |
+| genre    | the of the painting, including `山水`, `花鸟`, `人物`, `其他` |
+| filename | the painting filename saving in the folder `images`          |
+
 `id`: unique identifier for each painting;
 
 `author`: the creator of the original painting;
