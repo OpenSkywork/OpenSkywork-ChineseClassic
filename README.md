@@ -38,7 +38,7 @@ This project is licensed under the terms of the MIT license.
 
 ## CITATION
 
-````
+`
 OpenSkywork. OpenSkywork-ChinesePainting Database [Online], available: https://github.com/OpenSkywork/OpenSkywork-CCD, 2020
-````
+`
 
