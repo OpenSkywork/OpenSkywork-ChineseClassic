@@ -16,16 +16,6 @@ The labels for each images contains `id`, `author`, `dynasty `, `genre`, and `fi
 | genre    | the of the painting, including `山水`, `花鸟`, `人物`, `其他` |
 | filename | the painting filename saving in the folder `images`          |
 
-`id`: unique identifier for each painting;
-
-`author`: the creator of the original painting;
-
-`dynasty`: the dynasty of the author, including `唐`, `宋`，`元`, `明`, `清`;
-
-`genre`: the of the painting, including `山水`, `花鸟`, `人物`, `其他`;
-
-`filename`: the painting filename saving in the folder `images`.
-
 ## Annotation Process
 
 1. Paintings are scrowed or mannual downloaded from the Internet, together with its related information such as author, dynasty and genre.
