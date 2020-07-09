@@ -1,4 +1,4 @@
-# OpenSkywork-ChinesePainting Database
+# OpenSkywork-ChineseClassic Database
 
 ## Overview
 
