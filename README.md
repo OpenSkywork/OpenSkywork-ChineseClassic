@@ -2,7 +2,7 @@
 
 ## Overview
 
-`OpenSkywork-ChineseClassic Database` is an open-sourced database of traditional Chinese painting created by `SkyWorks` research team.
+`OpenSkywork-ChineseClassic Database` is an open-sourced database of traditional Chinese paintings created by `SkyWorks` research team.
 
 This Database contains traditional chinese paintings with attribute labels, with 10166 images and 510 authors in total.
 
@@ -34,3 +34,6 @@ This project is licensed under the terms of the MIT license.
 OpenSkywork. OpenSkywork-ChineseClassic Database [Online], available: https://github.com/OpenSkywork/ChineseClassic, 2020
 `
 
+## CONTACT
+
+Create an issue under this repository if you are interested in our work.
